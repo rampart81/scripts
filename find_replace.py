@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 
-# The fileinput module implements a helper class and functions 
-# to quickly write a loop over standard input or a list of files.
 import fileinput
-
-# The re module is for regular expression
 import re
-
-# To run shell commands
 import subprocess
-
-# Argparse is a module to parse command line arguments
 import argparse
 
 ##
